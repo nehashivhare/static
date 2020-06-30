@@ -1,0 +1,4 @@
+How to host a static website
+- Source code of the static website resides in this github repository
+- The static website is hosted on AWS S3 bucket
+- Using AWS-pipeline and Credentials plugin we can upload files to S3 via jenkins stages
